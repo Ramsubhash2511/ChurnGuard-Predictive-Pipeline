@@ -34,6 +34,12 @@ Before running the pipeline, you need to set up your Snowflake credentials:
 1. Create a `.env` file in the root directory of this project.
 2. Fill in your Snowflake account details and the path to the preprocessed data file (`preprocessed_churn_data.csv`). You can use `.env.example` as a template.
 
+## Video Demo
+
+
+https://github.com/user-attachments/assets/45e15d6d-6e3c-4769-a997-ee20fc12aa76
+
+
 ## Step-by-Step Execution Guide
 
 ### Step 1: Data Ingestion
